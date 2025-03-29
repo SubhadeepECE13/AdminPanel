@@ -6,7 +6,7 @@ import MessagesSection from "../components/MessageSection";
 import ProjectsSection from "../components/ProjectsSection";
 import ReviewsSection from "../components/ReviewSection";
 import AnalyticsSection from "../components/AnalyticsSection";
-import Logo1 from "../images/logo1.png";
+import Logo1 from "../images/Logo1.png";
 
 const Homepage = () => {
   return (
